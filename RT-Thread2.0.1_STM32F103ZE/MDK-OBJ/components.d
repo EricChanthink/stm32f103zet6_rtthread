@@ -1,0 +1,15 @@
+.\mdk-obj\components.o: components\init\components.c
+.\mdk-obj\components.o: components\init\components.h
+.\mdk-obj\components.o: .\RT_Thread-2.0.1\include\rtthread.h
+.\mdk-obj\components.o: .\RT_Thread-2.0.1\rtconfig.h
+.\mdk-obj\components.o: .\RT_Thread-2.0.1\include\rtdebug.h
+.\mdk-obj\components.o: .\RT_Thread-2.0.1\include\rtdef.h
+.\mdk-obj\components.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\mdk-obj\components.o: .\RT_Thread-2.0.1\include\rtservice.h
+.\mdk-obj\components.o: .\RT_Thread-2.0.1\include\rtm.h
+.\mdk-obj\components.o: .\RT_Thread-2.0.1\include\rtthread.h
+.\mdk-obj\components.o: .\components\finsh\finsh.h
+.\mdk-obj\components.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\mdk-obj\components.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\mdk-obj\components.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\mdk-obj\components.o: .\components\finsh\shell.h

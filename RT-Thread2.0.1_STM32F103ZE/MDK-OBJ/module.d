@@ -1,0 +1,10 @@
+.\mdk-obj\module.o: RT_Thread-2.0.1\src\module.c
+.\mdk-obj\module.o: .\RT_Thread-2.0.1\include\rthw.h
+.\mdk-obj\module.o: .\RT_Thread-2.0.1\include\rtthread.h
+.\mdk-obj\module.o: .\RT_Thread-2.0.1\rtconfig.h
+.\mdk-obj\module.o: .\RT_Thread-2.0.1\include\rtdebug.h
+.\mdk-obj\module.o: .\RT_Thread-2.0.1\include\rtdef.h
+.\mdk-obj\module.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\mdk-obj\module.o: .\RT_Thread-2.0.1\include\rtservice.h
+.\mdk-obj\module.o: .\RT_Thread-2.0.1\include\rtm.h
+.\mdk-obj\module.o: .\RT_Thread-2.0.1\include\rtthread.h

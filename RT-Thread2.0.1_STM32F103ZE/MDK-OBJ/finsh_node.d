@@ -1,0 +1,17 @@
+.\mdk-obj\finsh_node.o: components\finsh\finsh_node.c
+.\mdk-obj\finsh_node.o: .\components\finsh\finsh.h
+.\mdk-obj\finsh_node.o: .\RT_Thread-2.0.1\include\rtthread.h
+.\mdk-obj\finsh_node.o: .\RT_Thread-2.0.1\rtconfig.h
+.\mdk-obj\finsh_node.o: .\RT_Thread-2.0.1\include\rtdebug.h
+.\mdk-obj\finsh_node.o: .\RT_Thread-2.0.1\include\rtdef.h
+.\mdk-obj\finsh_node.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\mdk-obj\finsh_node.o: .\RT_Thread-2.0.1\include\rtservice.h
+.\mdk-obj\finsh_node.o: .\RT_Thread-2.0.1\include\rtm.h
+.\mdk-obj\finsh_node.o: .\RT_Thread-2.0.1\include\rtthread.h
+.\mdk-obj\finsh_node.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\mdk-obj\finsh_node.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\mdk-obj\finsh_node.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\mdk-obj\finsh_node.o: components\finsh\finsh_node.h
+.\mdk-obj\finsh_node.o: components\finsh\finsh_error.h
+.\mdk-obj\finsh_node.o: components\finsh\finsh_var.h
+.\mdk-obj\finsh_node.o: components\finsh\finsh_heap.h

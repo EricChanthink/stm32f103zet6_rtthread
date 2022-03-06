@@ -1,0 +1,12 @@
+.\mdk-obj\dataqueue.o: DeviceDrivers\drivers\src\dataqueue.c
+.\mdk-obj\dataqueue.o: .\RT_Thread-2.0.1\include\rtthread.h
+.\mdk-obj\dataqueue.o: .\RT_Thread-2.0.1\rtconfig.h
+.\mdk-obj\dataqueue.o: .\RT_Thread-2.0.1\include\rtdebug.h
+.\mdk-obj\dataqueue.o: .\RT_Thread-2.0.1\include\rtdef.h
+.\mdk-obj\dataqueue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\mdk-obj\dataqueue.o: .\RT_Thread-2.0.1\include\rtservice.h
+.\mdk-obj\dataqueue.o: .\RT_Thread-2.0.1\include\rtm.h
+.\mdk-obj\dataqueue.o: .\RT_Thread-2.0.1\include\rtthread.h
+.\mdk-obj\dataqueue.o: .\DeviceDrivers\drivers\include\rtdevice.h
+.\mdk-obj\dataqueue.o: .\DeviceDrivers\drivers\include\drivers/serial.h
+.\mdk-obj\dataqueue.o: .\RT_Thread-2.0.1\include\rthw.h

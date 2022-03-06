@@ -1,0 +1,10 @@
+.\mdk-obj\scheduler.o: RT_Thread-2.0.1\src\scheduler.c
+.\mdk-obj\scheduler.o: .\RT_Thread-2.0.1\include\rtthread.h
+.\mdk-obj\scheduler.o: .\RT_Thread-2.0.1\rtconfig.h
+.\mdk-obj\scheduler.o: .\RT_Thread-2.0.1\include\rtdebug.h
+.\mdk-obj\scheduler.o: .\RT_Thread-2.0.1\include\rtdef.h
+.\mdk-obj\scheduler.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\mdk-obj\scheduler.o: .\RT_Thread-2.0.1\include\rtservice.h
+.\mdk-obj\scheduler.o: .\RT_Thread-2.0.1\include\rtm.h
+.\mdk-obj\scheduler.o: .\RT_Thread-2.0.1\include\rtthread.h
+.\mdk-obj\scheduler.o: .\RT_Thread-2.0.1\include\rthw.h

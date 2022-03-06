@@ -1,0 +1,12 @@
+.\mdk-obj\pipe.o: DeviceDrivers\drivers\src\pipe.c
+.\mdk-obj\pipe.o: .\RT_Thread-2.0.1\include\rthw.h
+.\mdk-obj\pipe.o: .\RT_Thread-2.0.1\include\rtthread.h
+.\mdk-obj\pipe.o: .\RT_Thread-2.0.1\rtconfig.h
+.\mdk-obj\pipe.o: .\RT_Thread-2.0.1\include\rtdebug.h
+.\mdk-obj\pipe.o: .\RT_Thread-2.0.1\include\rtdef.h
+.\mdk-obj\pipe.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\mdk-obj\pipe.o: .\RT_Thread-2.0.1\include\rtservice.h
+.\mdk-obj\pipe.o: .\RT_Thread-2.0.1\include\rtm.h
+.\mdk-obj\pipe.o: .\RT_Thread-2.0.1\include\rtthread.h
+.\mdk-obj\pipe.o: .\DeviceDrivers\drivers\include\rtdevice.h
+.\mdk-obj\pipe.o: .\DeviceDrivers\drivers\include\drivers/serial.h
